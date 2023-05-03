@@ -1,6 +1,6 @@
 #1
 #prints personal info
-personal_info=("Lars Hommersom / Gelderland Ochten Maaskant 9 / 06 53150930 / bio-informatica")
+personal_info=("bio-informatica")
 print(personal_info)
 print("//////////////////////////////////////////////////////////////////////////////////////")
 
